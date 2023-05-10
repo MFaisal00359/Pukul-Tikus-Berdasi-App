@@ -1,0 +1,1 @@
+ygame.draw.rect(screen, BLUE, (rect))
