@@ -1,1 +1,1 @@
-ygame.draw.rect(screen, BLUE, (rect))
+posisi_mouse
