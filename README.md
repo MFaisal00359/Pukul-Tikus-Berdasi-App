@@ -19,7 +19,7 @@ Game ini terdiri dari beberapa file utama:
 - `README.md`: File ini, berisi dokumentasi permainan.
 
 ## Requirements
-- Python 3.x
+- Python 3.11.4
 - Pygame library
 
 ## Lisensi
