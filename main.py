@@ -109,7 +109,7 @@ class Game:
         self.play_background_music()
         self.game_loop()
 
-    # load assets seperti Mole dan Hammer dalam fugsi load assets
+    # load assets seperti Mole dan Hammer dalam fungsi load assets
     def load_assets(self):
         self.mole = Mole()
         self.hammer = Hammer()
