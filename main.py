@@ -1,6 +1,7 @@
 import pygame
 import random
 from pygame.locals import *
+import math
 
 # SETTING WINDOW GAME
 width, height = 1200, 700
@@ -17,6 +18,8 @@ GREEN_BG = (155, 255, 130)
 COL = 3
 ROW = 3
 
+print ("Logarithm(1+a) value of 14 is : ", end="")
+print (math.log1p(14))
 
 # Class yang merupakan class dasar yang mewakili object dalam game contoh Mole dan Hammer
 class GameObject:
